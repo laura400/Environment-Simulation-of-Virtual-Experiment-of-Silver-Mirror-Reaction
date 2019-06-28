@@ -10,7 +10,7 @@ In this Virtual Experimental Environment, we provide players with a set of break
 
 #### Chemical Reaction Process Simulation
 1. Correct recorded reactant amount and calculated products amount
-2. Depoist Creation and Dissolution according to the amount of deposit.
+2. Depoist Creation and Dissolution according to the amount of deposit
 3. Lifelike changable deposit creation and dissolution
 
 #### Reaction Phenonmenon Presentation
@@ -20,7 +20,7 @@ In this Virtual Experimental Environment, we provide players with a set of break
 
 ## Detailed description
 
-Please refer to project report for detailed description and methodology. [Project report](project-report.pdf)
+Please refer to project report in the root directory for detailed description and methodology. 
 
 ## Setup
 
