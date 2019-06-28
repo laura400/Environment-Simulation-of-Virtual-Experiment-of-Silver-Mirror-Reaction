@@ -20,7 +20,7 @@ In this Virtual Experimental Environment, we provide players with a set of break
 
 ## Detailed description
 
-Please refer to project report for detailed description and methodology. [Project report](project_report.pdf)
+Please refer to project report for detailed description and methodology. [Project report](project report.pdf)
 
 ## Setup
 
@@ -29,7 +29,7 @@ You can got to Assets/scene/myscene to start the game.
 
 ## Result
 Demo  
-[Chinese version](https://www.bilibili.com/video/av57048946)
+[Chinese version](https://www.bilibili.com/video/av57048946)  
 [English version](https://youtu.be/0eMfe_lq1ZA)
 
 
