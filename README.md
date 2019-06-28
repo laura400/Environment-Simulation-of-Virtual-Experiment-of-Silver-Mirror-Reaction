@@ -20,7 +20,7 @@ In this Virtual Experimental Environment, we provide players with a set of break
 
 ## Detailed description
 
-Please refer to project report for detailed description and methodology. [Project report]("project report.pdf")
+Please refer to project report for detailed description and methodology. [Project report](project-report.pdf)
 
 ## Setup
 
